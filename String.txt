@@ -1,0 +1,22 @@
+# String
+"abcdefg" [1:5:2] = "bd"
+
+# String Method
+"mth337".upper()
+"MTH337"
+
+"MTH337".lower()
+"mth337"
+
+"mth337".captilize()
+"Mth337"
+
+#String Method
+"I lOVE MTH337".split()
+["I", "love",MTH337"]
+
+"avada kedavra". count("a")
+5
+
+"avada kedavra".index("ked")
+6

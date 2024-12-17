@@ -1,0 +1,11 @@
+bool(1) = True
+
+bool(0) = False
+
+bool("") = False
+
+str(True) = "True"
+
+str(1) = "1"
+
+str(1.234) = "1,234"
